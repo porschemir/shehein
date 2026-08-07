@@ -120,7 +120,7 @@ function Index() {
             </p>
 
             <a
-              href="https://giftclick.org/aff_c?offer_id=1146&aff_id=27974"
+              href="https://taprkr.com/r/eyJ0Ijoic2hlaW4iLCJ0aWQiOiI3ZjNkMGY2NDRkNGRjOTNiMjFhOSIsInRzIjoxNzg2MTA3ODU1NDcwLCJhIjoiNzUwIn0"
               className="cta-surface mt-6 flex w-full items-center justify-center gap-3 rounded-2xl py-4 text-lg font-extrabold uppercase tracking-wide text-primary-foreground transition-transform hover:scale-[1.02]"
             >
               <Rocket className="size-5" />
