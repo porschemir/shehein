@@ -13,17 +13,17 @@ import {
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Shein Gift Card Offer — Claim Yours Today" },
+      { title: "DDash Gift Card Offer — Claim Yours Today" },
       {
         name: "description",
         content:
-          "Pick your device and follow three quick steps to claim your Shein gift card. Limited time offer.",
+          "Pick your device and follow three quick steps to claim your DDash gift card. Limited time offer.",
       },
-      { property: "og:title", content: "Shein Gift Card Offer — Claim Yours Today" },
+      { property: "og:title", content: "DDash Gift Card Offer — Claim Yours Today" },
       {
         property: "og:description",
         content:
-          "Pick your device and follow three quick steps to claim your Shein gift card. Limited time offer.",
+          "Pick your device and follow three quick steps to claim your DDash gift card. Limited time offer.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -38,7 +38,7 @@ const steps = [
     title: "Complete 2-3 simple tasks",
     desc: "Get access to recommended mobile games",
   },
-  { title: "Get your Shein giftcard", desc: "Earn points and exclusive bonuses" },
+  { title: "Get your DDash giftcard", desc: "Earn points and exclusive bonuses" },
 ];
 
 const badges = [
@@ -113,14 +113,14 @@ function Index() {
             <Pill label="You're ready" />
             <h1 className="mt-6 text-4xl font-extrabold leading-tight tracking-tight sm:text-[2.75rem]">
               Get whatever you want from{" "}
-              <span className="text-primary text-glow">Shein</span>
+              <span className="text-primary text-glow">DDash</span>
             </h1>
             <p className="mt-3 text-sm text-muted-foreground">
               Follow the quick steps below to continue
             </p>
 
             <a
-              href="https://giftclick.org/aff_c?offer_id=1146&aff_id=27974"
+              href="https://www.stw4c9hx.com/GF8LKT/LXNRDR/?source_id=ilk"
               className="cta-surface mt-6 flex w-full items-center justify-center gap-3 rounded-2xl py-4 text-lg font-extrabold uppercase tracking-wide text-primary-foreground transition-transform hover:scale-[1.02]"
             >
               <Rocket className="size-5" />
